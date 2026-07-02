@@ -1,0 +1,13 @@
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore the huge AI model folder
+model/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Mac system files (if any)
+.DS_Store
